@@ -1,0 +1,4 @@
+<Options>
+    <Option Name="InstallAllUsers" Value="yes" />
+    <Option Name="SimpleInstall" Value="yes" />
+</Options>
